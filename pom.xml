@@ -28,11 +28,4 @@
 		<module>okawari-store</module>
 		<module>tako-store</module>
 	</modules>
-	<dependencies>
-		<dependency>
-			<groupId>com.beust</groupId>
-			<artifactId>jcommander</artifactId>
-			<version>1.82</version>
-		</dependency>
-	</dependencies>
 </project>
